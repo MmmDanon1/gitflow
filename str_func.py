@@ -1,4 +1,3 @@
 def str_func(value):
-    """ все буквы заглавные
-    docstring"""
+    """docstring"""
     return value.upper()
