@@ -4,5 +4,5 @@ def str_func(value):
     return value.upper()
 
 def str_func1(value):
-    """ каждое слово в строке начинается с заглавной буквы"""
+    """ каждое слово с заглавной буквы"""
     return value.title()
